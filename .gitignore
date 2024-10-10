@@ -37,3 +37,4 @@ next-env.d.ts
 
 # package managers
 bun.lockb
+yarn.lock
